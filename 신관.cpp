@@ -5,8 +5,8 @@
 #include <windows.h>
 #include <conio.h>
 
-//#include "½Å°ü_Çì´õ_±â´É.h"
-//#include "½Å°ü_Çì´õ_½ºÅ×ÀÌÁö.h"
+//#include "ì‹ ê´€_í—¤ë”_ê¸°ëŠ¥.h"
+//#include "ì‹ ê´€_í—¤ë”_ìŠ¤í…Œì´ì§€.h"
 
 using namespace std;
 
@@ -52,7 +52,7 @@ void enter()
 	cout << enter;
 }
 
-
+//upload complete!
 
 
 
